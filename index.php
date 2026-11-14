@@ -1,4 +1,4 @@
-<?php /* Integrative Programming Final Project: single-page portal. Run via XAMPP: http://localhost/integrative_final/ */ ?>
+<?php /* Integrative Programming Final Project. Run via XAMPP: http://localhost/integrative_final/ */ ?>
 <!DOCTYPE html>
 <html lang="en" class="dark">
 <head>
